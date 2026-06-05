@@ -1,4 +1,3 @@
-<img width="360" height="248" alt="C64_startup_animiert" src="https://github.com/user-attachments/assets/47587102-417d-401b-94e7-3bf845185948" />
 <p align="center">
   <!-- هذا الجزء خاص بالصورة، استبدل الرابط برابط الـ GIF الحقيقي -->
   <img src="https://github.com/user-attachments/assets/47587102-417d-401b-94e7-3bf845185948" alt="Commander X16 GIF">
