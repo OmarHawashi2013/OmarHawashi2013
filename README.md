@@ -1,4 +1,4 @@
-<img src="https://commons.wikimedia.org/wiki/File:C64_startup_animiert.gif"/>
+![ahh, My favorite 8 bit device (The commander x16)]([https://example.com/omar-engine.gif](https://commons.wikimedia.org/wiki/File:C64_startup_animiert.gif))
 
 Hello, I'm Omar Hawash, A windows programmer and i like languages like
 * **C/C++**
