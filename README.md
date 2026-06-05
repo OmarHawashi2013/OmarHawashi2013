@@ -9,7 +9,7 @@
   <!-- وهذا هو النص، سيظهر أسفل الصورة وموسطاً أيضاً -->
   
 </p>
-<p align="center">ahh, my favorite 8 bit device the commander x16</p>
+<p align="center">ahh, my favorite 8 bit device the commander x16</p><br>
 
 
 Hello, I'm Omar Hawash, A windows programmer and i like languages like
