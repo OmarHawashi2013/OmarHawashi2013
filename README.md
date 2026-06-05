@@ -1,6 +1,6 @@
 Hello, I'm Omar Hawash, A windows programmer and i like languages like
 * **C/C++**
-* **x86 Assembly
+* **x86 Assembly**
 
 Beyond that i am a game devloper and i can do pixel art and make soundtracks
 
