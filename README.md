@@ -7,8 +7,11 @@
   <br>
   
   <!-- وهذا هو النص، سيظهر أسفل الصورة وموسطاً أيضاً -->
-  ahh, my favorite 8 bit device the commander x16
+  
 </p>
+<p align="center">ahh, my favorite 8 bit device the commander x16</p>
+
+
 Hello, I'm Omar Hawash, A windows programmer and i like languages like
 * **C/C++**
 * **x86 Assembly**
