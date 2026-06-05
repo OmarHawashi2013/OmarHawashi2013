@@ -1,14 +1,22 @@
-# Hello, I'm Omar Hawash
+#  Hello, I'm Omar Hawash
 
 I am a Windows platform programmer with a deep passion for low-level development. My work focuses on building efficient, optimized software while exploring the intricacies of system architecture.
 
-### About Me
-* **Programming:** I specialize in low-level languages, primarily **C/C++** and **x86 Assembly**.
-* **Systems:** I am proficient in the **Win32 API** and actively develop on **Windows 7**.
-* **Game Development:** I am an indie game developer, building custom engines from the ground up.
-* **Creative Arts:** Beyond code, I compose chiptune music and create pixel art.
+---
 
-### Connect With Me
-* **Discord:** [omarhawash79366](https://discord.com/users/omarhawash79366)
-* **Reddit:** [OmarHawash2013](https://www.reddit.com/user/OmarHawash2013/)
-* **Itch.io:** [omar-hawash.itch.io](https://omar-hawash.itch.io/)
+###  Technical Skills
+* **Languages:** C/C++, x86 Assembly
+* **Systems:** Win32 API
+* **Environment:** Windows 7
+* **Creative:** Game Development, Chiptune Music Composition, Pixel Art
+
+---
+
+###  Connect With Me
+
+<a href="https://discord.com/users/omarhawash79366"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="https://www.reddit.com/user/OmarHawash2013/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
+<a href="https://omar-hawash.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"></a>
+
+---
+*Happy coding! *
