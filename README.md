@@ -1,5 +1,14 @@
 <img width="360" height="248" alt="C64_startup_animiert" src="https://github.com/user-attachments/assets/47587102-417d-401b-94e7-3bf845185948" />
-
+<p align="center">
+  <!-- هذا الجزء خاص بالصورة، استبدل الرابط برابط الـ GIF الحقيقي -->
+  <img src="https://github.com/user-attachments/assets/47587102-417d-401b-94e7-3bf845185948" alt="Commander X16 GIF">
+  
+  <!-- هذا الجزء لكسر السطر -->
+  <br>
+  
+  <!-- وهذا هو النص، سيظهر أسفل الصورة وموسطاً أيضاً -->
+  ahh, my favorite 8 bit device the commander x16
+</p>
 Hello, I'm Omar Hawash, A windows programmer and i like languages like
 * **C/C++**
 * **x86 Assembly**
