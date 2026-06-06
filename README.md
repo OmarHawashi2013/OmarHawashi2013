@@ -6,7 +6,7 @@
   
   
 </p>
-<p align="center">ahh, my favorite 8 bit device the commander x16</p><br>
+<p align="center">ahh, reminds me of my favorite 8 bit device, Commodore 64</p><br>
 
 
 Hello, I'm Omar Hawash, A windows programmer and i like languages like
