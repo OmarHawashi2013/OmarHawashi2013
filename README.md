@@ -13,7 +13,8 @@ Hello, I'm Omar Hawash, A windows programmer and i like languages like
 * **C/C++**
 * **x86 Assembly**
 
-Beyond that i am a game devloper and i can do pixel art and make soundtracks
+Beyond that i am a game devloper and i can do pixel art and make soundtracks[good.mp3](https://github.com/user-attachments/files/28760724/good.mp3)
+
 
 And in my free time i like playing some chess or playing old game like commander kenn 4 or jazz jackrabbit
 
