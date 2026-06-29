@@ -28,4 +28,4 @@ Reach me
 <a href="https://omar-hawash.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"></a>
 
 ---
-By the way, I am a web developer that can make static web pages using (HTML/CSS/JS) like that website <a href="hawash-hq.github.io"></a>
+By the way, I am a web developer that can make static web pages using (HTML/CSS/JS) like that <a href="hawash-hq.github.io">website</a>
