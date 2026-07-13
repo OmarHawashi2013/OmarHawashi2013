@@ -16,7 +16,7 @@ Hello, I'm Omar Hawash, A windows programmer and i like languages like
 Beyond that i am a game devloper and i can do pixel art and make soundtracks
 
 
-And in my free time i like playing some chess or playing old game like commander kenn 4 or jazz jackrabbit
+And in my free time i like playing some chess or playing old games like commander keen 4 or jazz jackrabbit
 
 And I made my Own Engine
 ---
